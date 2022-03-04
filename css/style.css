@@ -1,0 +1,40 @@
+h1 {
+    text-align: center;
+    background-color: lightgray;
+    color: #005677;
+    width: auto;
+}
+
+.espacio {
+    height: 100px;
+}
+
+.subtitulos {
+    background-color: lightgray;
+    color: #005677;
+    width: auto;
+}
+
+.logobatman {
+    align-items: center;
+}
+
+.listas {
+    margin-left: 79px;
+    margin-top: 0px;
+}
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+footer {
+    background-color: #005677;
+    color: white;
+    font-size: 20px;
+    }
+
+.logofooter {
+    margin-top: 10px;
+    margin-left: 20px;
+}
